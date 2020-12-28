@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235795863019",
+    "project_id": "clean-todo-getx",
+    "storage_bucket": "clean-todo-getx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235795863019:android:792fd3be57366baee9b5ae",
+        "android_client_info": {
+          "package_name": "th.co.imake.merchant.getpoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235795863019-gk5b40jjsdbqgqerln8eu2hrt7nudp2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe03QGfxRWBKXJmmS4tSRFtT96UhcdqW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235795863019-gk5b40jjsdbqgqerln8eu2hrt7nudp2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
