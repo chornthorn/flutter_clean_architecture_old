@@ -1,0 +1,235 @@
+{
+  "project_info": {
+    "project_number": "505676601265",
+    "firebase_url": "https://imake-license.firebaseio.com",
+    "project_id": "imake-license",
+    "storage_bucket": "imake-license.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505676601265:android:972fe82e475a7728e7cf90",
+        "android_client_info": {
+          "package_name": "th.co.imake.clean.architecture.ed.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505676601265-om6mg8m66at4iu27k61ke0ski91mcaos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Kyh4sNax_zoh_8DQfTnrDJpUYr8r_hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505676601265-om6mg8m66at4iu27k61ke0ski91mcaos.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "505676601265-9hc82a66c4v0o3qjo3nn19gretf42ual.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "th.co.imake.merchant.licensecheckerapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505676601265:android:35bdbdab4a9e97a5e7cf90",
+        "android_client_info": {
+          "package_name": "th.co.imake.clean.architecture.ed.notification.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505676601265-om6mg8m66at4iu27k61ke0ski91mcaos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Kyh4sNax_zoh_8DQfTnrDJpUYr8r_hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505676601265-om6mg8m66at4iu27k61ke0ski91mcaos.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "505676601265-9hc82a66c4v0o3qjo3nn19gretf42ual.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "th.co.imake.merchant.licensecheckerapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505676601265:android:f3f63255ab9b070ee7cf90",
+        "android_client_info": {
+          "package_name": "th.co.imake.getx.ed.getx_ed_notification.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505676601265-om6mg8m66at4iu27k61ke0ski91mcaos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Kyh4sNax_zoh_8DQfTnrDJpUYr8r_hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505676601265-om6mg8m66at4iu27k61ke0ski91mcaos.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "505676601265-9hc82a66c4v0o3qjo3nn19gretf42ual.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "th.co.imake.merchant.licensecheckerapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505676601265:android:eccc634938a41b31e7cf90",
+        "android_client_info": {
+          "package_name": "th.co.imake.getx.license.checker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505676601265-om6mg8m66at4iu27k61ke0ski91mcaos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Kyh4sNax_zoh_8DQfTnrDJpUYr8r_hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505676601265-om6mg8m66at4iu27k61ke0ski91mcaos.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "505676601265-9hc82a66c4v0o3qjo3nn19gretf42ual.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "th.co.imake.merchant.licensecheckerapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505676601265:android:92ed60fd84291400e7cf90",
+        "android_client_info": {
+          "package_name": "th.co.imake.getx.license.checker.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505676601265-om6mg8m66at4iu27k61ke0ski91mcaos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Kyh4sNax_zoh_8DQfTnrDJpUYr8r_hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505676601265-om6mg8m66at4iu27k61ke0ski91mcaos.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "505676601265-9hc82a66c4v0o3qjo3nn19gretf42ual.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "th.co.imake.merchant.licensecheckerapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505676601265:android:cefa3d6d6b97b5bae7cf90",
+        "android_client_info": {
+          "package_name": "th.co.imake.merchant.licensecheckerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505676601265-8k3a5stnlfuuueoas04q036n87blih7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "th.co.imake.merchant.licensecheckerapp",
+            "certificate_hash": "7459e74bebddd6d16496c385f7d4e3c1f40c65f8"
+          }
+        },
+        {
+          "client_id": "505676601265-om6mg8m66at4iu27k61ke0ski91mcaos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Kyh4sNax_zoh_8DQfTnrDJpUYr8r_hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505676601265-om6mg8m66at4iu27k61ke0ski91mcaos.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "505676601265-9hc82a66c4v0o3qjo3nn19gretf42ual.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "th.co.imake.merchant.licensecheckerapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

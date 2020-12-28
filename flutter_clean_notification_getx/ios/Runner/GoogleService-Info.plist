@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>505676601265-v0afl27husugafcdlbj93c8t8qe75kvn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.505676601265-v0afl27husugafcdlbj93c8t8qe75kvn</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>505676601265-8k3a5stnlfuuueoas04q036n87blih7a.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAM3VpOTFlPTGGBCrXciGkeN5Am9DieCno</string>
+	<key>GCM_SENDER_ID</key>
+	<string>505676601265</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>th.co.imake.clean.architecture.ed.notification.dev</string>
+	<key>PROJECT_ID</key>
+	<string>imake-license</string>
+	<key>STORAGE_BUCKET</key>
+	<string>imake-license.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:505676601265:ios:561dbb76dcf7f13fe7cf90</string>
+	<key>DATABASE_URL</key>
+	<string>https://imake-license.firebaseio.com</string>
+</dict>
+</plist>
